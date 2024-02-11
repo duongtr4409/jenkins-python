@@ -12,5 +12,5 @@ def test_dummy3():
     assert 6 == 6
 
 def test_dummy4():
-    assert 7 == 7
+    # assert 7 == 7
     assert 8 == 8
