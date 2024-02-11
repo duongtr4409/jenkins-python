@@ -1,0 +1,7 @@
+-Account Jenkins app:
+	duowngtora
+	123121123aA@
+
+
+- Personal access tokens (classic) (Github: duongtr4409)
+	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
