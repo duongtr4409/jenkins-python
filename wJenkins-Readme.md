@@ -22,6 +22,11 @@ sudo ./add-docker-user.sh jenkins
 
 ### B2: sửa cấu hình mặc định của docker
 
+- Sửa File `/usr/lib/systemd/system/docker.service`
+```cmd
+sudo vim /usr/lib/systemd/system/docker.service
+```
+
 ```vim
 [Unit]
 Description=Docker Application Container Engine
